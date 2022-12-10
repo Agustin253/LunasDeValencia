@@ -16,18 +16,16 @@
     color: #3f3f3f;
 }
 
-.container-fuid{
-    background-color: white !important
-
-}
-
 .tituloGrande{
-    background-color: #cb87a9 !important;
+    background-color: white !important;
+  
 }
 .tituloPrincipal{
     font-family: 'Kaushan Script', cursive;
     font-size: 120px;
 }
+
+
 .leyenda{
     font-family: 'Dancing Script', cursive;
     background-color: #e09f85;
