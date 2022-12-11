@@ -16,7 +16,8 @@
     color: #3f3f3f;
 }
 
-.tituloGrande{
+
+.tituloGrande div{
     background-color: white !important;
   
 }
@@ -164,6 +165,7 @@ ul .icon{
     background-color: #c6917c;
 
 }
+
 
 .formulario{
     background-color: #c6917c;
