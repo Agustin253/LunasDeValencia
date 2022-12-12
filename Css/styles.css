@@ -38,15 +38,10 @@
     height: 100%;
 }
 
-.parrafo p{
-    color: aliceblue;
-    font-size: 35px !important;
-}
 
 .carousel-inner{
    max-height: 500px;
    
-
 }
 footer{
     background-color: black;
