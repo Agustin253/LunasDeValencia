@@ -13,6 +13,7 @@
 
 .tituloGrande div {
   background-color: white;
+  justify-content: center;
 }
 
 .tituloPrincipal {
@@ -20,6 +21,13 @@
   font-family: "Kaushan Script", cursive;
 }
 
+@media screen and (max-width: 756px) {
+  .tituloPrincipal {
+    font-size: 60px;
+    justify-content: center;
+    text-align: center;
+  }
+}
 .leyenda {
   font-family: "Dancing Script", cursive;
   background-color: #e09f85;
@@ -68,8 +76,14 @@ footer {
   font-weight: bold;
   margin: 30px;
   font-size: 30px;
+  justify-content: center;
 }
 
+@media screen and (max-width: 756px) {
+  .tituloCatalogo {
+    font-size: 20px;
+  }
+}
 .hecho {
   font-family: "Poiret One", cursive;
   font-style: oblique;
@@ -129,8 +143,15 @@ footer {
   background-color: #c6917c;
 }
 
+@media screen and (max-width: 756px) {
+  .mapa {
+    width: auto;
+    height: auto;
+  }
+}
 #ubi {
   background-color: #c6917c;
+  width: 100vg;
 }
 
 .formulario {
