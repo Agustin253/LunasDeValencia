@@ -170,19 +170,31 @@ footer{
 
 .fondoMapa{
     background-color: $fondosBase;
+    
 }
+
+.mapa{
+    align-items: center;
+    
+}
+
+
 
 @media screen and (max-width: 756px) {
     .mapa{
         width: auto;
         height: auto;
+        justify-items: center;
+        justify-content: center;
     }
     
 }
 
 #ubi{
     background-color: $fondosBase;
-    width: 100vg;
+    
+    
+  
 }
 
 .formulario{

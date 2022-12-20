@@ -143,15 +143,20 @@ footer {
   background-color: #c6917c;
 }
 
+.mapa {
+  align-items: center;
+}
+
 @media screen and (max-width: 756px) {
   .mapa {
     width: auto;
     height: auto;
+    justify-items: center;
+    justify-content: center;
   }
 }
 #ubi {
   background-color: #c6917c;
-  width: 100vg;
 }
 
 .formulario {
